@@ -1,1 +1,7 @@
 # PRAKTIKUM-PEMMO
+## Identitas
+- Nama: Raditya Yusuf Ramadhan
+- NIM: H1D023056
+- Shift: G/B
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0fbdeda6-c313-43cd-a802-082df671548a" />
