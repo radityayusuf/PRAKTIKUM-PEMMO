@@ -13,5 +13,8 @@ data class BookDoc (
     @SerializedName("author_name")
     val authorName: List<String>?,
     @SerializedName("first_publish_year")
-    val firstPublishYear: Int?
+    val firstPublishYear: Int?,
+    @SerializedName("cover_i")
+    val coverId: Int?
+
 )
